@@ -1,0 +1,92 @@
+[
+{
+    "name":"iphone10",
+    "price":50000,
+    "featured":true,
+    "company":"Apple",
+    "url":"https://www.cnet.com/a/img/resize/55db7f6ca0339706e5b5979f107957dc5b5b6b54/hub/2019/11/20/30249379-ef0c-4bbd-a441-05a465623b81/apple-iphone-11-iphone-11-pro-promo.jpg?auto=webp&fit=crop&height=1200&width=1200"
+  
+
+},
+{
+    "name":"iphone12pro",
+    "price":60000,
+    "featured":true,
+    "company":"Apple",
+    "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHkTH7o8fCGuAdQH_WKbUSGkh4tjMFMiKn7w&usqp=CAU"
+
+},
+{
+    "name":"iphone11",
+    "price":100000,
+    "featured":true,
+    "company":"Apple",
+    "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7e-jzenlsgkDMVMW2793MpfOrCsm8UN6F8s3bwn4l&s"
+
+},
+{
+    "name":"iphone10pro",
+    "price":80000,
+    "featured":true,
+    "company":"Apple",
+    "url":"https://www.apple.com/newsroom/images/product/iphone/standard/iphone8plus_product_red_back_041018_carousel.jpg.large.jpg"
+
+},
+{
+    "name":"iphone9pro",
+    "price":70000,
+    "featured":true,
+    "company":"Apple",
+    "url":"https://www.91-img.com/pictures/apple-iphone-9-mobile-phone-large-2.jpg?tr=h-241,c-at_max,q-80"
+
+},
+{
+    "name":"VivoU10",
+    "price":40000,
+    "featured":true,
+    "company":"Vivo",
+    "url":"https://m.media-amazon.com/images/I/51awR1jeBfL.jpg"
+
+},
+{
+    "name":"Vivov20",
+    "price":45000,
+    "featured":true,
+    "company":"Vivo",
+    "url":"https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1600777531847/13239c4e7dc8ccbc639ed14c170d5721.png"
+
+},
+{
+    "name":"GalaxyA30",
+    "price":30000,
+    "featured":true,
+    "company":"Samsung",
+    "url":"https://image-us.samsung.com/SamsungUS/home/mobile/phones/pdp/galazy-a/galaxy-a03s/gallery/blue/Galaxy-A03s-blue-1.jpg?$product-details-jpg$"
+
+},
+{
+    "name":"GalaxyS23",
+    "price":27000,
+    "featured":true,
+    "company":"Samsung",
+    "url":"https://oss.gadgetbytenepal.com/wp-content/uploads/2023/02/Samsung-Galaxy-S23-Cream.png"
+
+},
+{
+    "name":"Redmi9",
+    "price":18000,
+    "featured":true,
+    "company":"Redmi",
+    "url":"https://neostore.com.np/assets/uploads/uploads/2021/02/0000_Xiaomi-Redmi-9-Power1.jpg"
+
+},
+{
+    "name":"Redmi10",
+    "price":22000,
+    "featured":true,
+    "company":"Redmi",
+    "url":"https://oss.gadgetbytenepal.com/wp-content/uploads/2022/04/Redmi-10-Prime-Bifrost-Blue.jpg"
+
+}
+
+]
